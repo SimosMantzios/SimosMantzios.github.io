@@ -18,6 +18,7 @@ a:hover{
 header{
     background-color: #eff6ff;
     padding: 40px 20px;
+    border-radius: 20px;
 }
 
 section{
@@ -35,4 +36,5 @@ section{
 .skills-list li{
     background-color: #eff6ff;
     padding: 4px 12px;
+    border-radius: 10px;
 }
