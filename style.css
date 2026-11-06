@@ -29,4 +29,10 @@ section{
     list-style: none;
     padding-left: 0;
     gap: 8px;
+    flex-wrap: wrap;
+}
+
+.skills-list li{
+    background-color: #eff6ff;
+    padding: 4px 12px;
 }
