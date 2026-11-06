@@ -23,3 +23,10 @@ header{
 section{
     margin-bottom: 40px;
 }
+
+.skills-list{
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+    gap: 8px;
+}
