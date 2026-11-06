@@ -10,3 +10,7 @@ body{
 a{
     color: #2563eb;
 }
+
+a:hover{
+    color: #1d46c2;
+}
