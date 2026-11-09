@@ -16,7 +16,8 @@ a:hover{
 }
 
 header{
-    background-color: #eff6ff;
+    background: linear-gradient(to left, #768ECC, #1232A1);
+    color: white;
     padding: 40px 20px;
     border-radius: 20px;
 }
