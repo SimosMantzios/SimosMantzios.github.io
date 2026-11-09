@@ -43,3 +43,11 @@ h2{
     border-bottom: 2px solid #2563eb;
     padding-bottom: 6px;
 }
+
+footer{
+    text-align: center;
+    font-size: 14px;
+    color: #777777;
+    border-top: 1px solid #dddddd;
+    padding-top: 10px;
+}
