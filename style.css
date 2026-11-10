@@ -52,3 +52,18 @@ footer{
     border-top: 1px solid #dddddd;
     padding-top: 10px;
 }
+
+.hero-buttons{
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin-top: 15px;
+}
+
+.hero-buttons a{
+    background-color: white;
+    color: #1232A1;
+    padding: 5px 20px;
+    border-radius: 999px;
+    text-decoration: none;
+}
