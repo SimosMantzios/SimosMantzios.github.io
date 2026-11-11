@@ -1,4 +1,5 @@
 body{
+    background-color: #F7FDFF;
     font-family: 'Inter', Arial, sans-serif;
     max-width: 800px;
     margin: 20px auto;
@@ -35,7 +36,7 @@ section{
 }
 
 .skills-list li{
-    background-color: #eff6ff;
+    background-color: #dbeafe;
     padding: 4px 12px;
     border-radius: 10px;
 }
