@@ -66,6 +66,11 @@ footer{
     padding: 5px 20px;
     border-radius: 999px;
     text-decoration: none;
+    transition: background-color 0.5s;
+}
+
+.hero-buttons a:hover{
+    background-color: #dbeafe;
 }
 
 .project-card{
@@ -74,3 +79,5 @@ footer{
     border-radius: 16px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
 }
+
+
